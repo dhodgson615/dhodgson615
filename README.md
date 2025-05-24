@@ -7,3 +7,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=dhodgson615&theme=tokyonight)
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=dhodgson615&theme=tokyo-night)
+
+![](https://raw.githubusercontent.com/dhodgson615/dhodgson615/main/github-metrics.svg)
