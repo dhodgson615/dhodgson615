@@ -6,4 +6,4 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=dhodgson615&theme=tokyonight)
 
-[![GitHub Skyline](https://raw.githubusercontent.com/dhodgson615/skyline/2022/animated.svg)](https://skyline.github.com/dhodgson615)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=dhodgson615&theme=tokyo-night)
