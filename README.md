@@ -9,3 +9,5 @@
 ![](https://komarev.com/ghpvc/?username=dhodgson615&label=Profile%20views&color=blue&style=flat)
 ![](https://img.shields.io/github/followers/dhodgson615?label=Follow&style=social)
 ![](https://img.shields.io/github/stars/dhodgson615?style=social)
+[![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhodgson615&theme=tokyonight)](https://github.com/dhodgson615)
+[![Commits Card](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhodgson615&theme=tokyonight)](https://github.com/dhodgson615)
