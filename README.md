@@ -1,8 +1,29 @@
-![](https://github-readme-stats.vercel.app/api?username=dhodgson615&show_icons=true&theme=tokyonight&hide_rank=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
-![](https://github-readme-streak-stats.herokuapp.com/?user=dhodgson615&theme=tokyonight)
-![](https://github-profile-trophy.vercel.app/?username=dhodgson615&theme=tokyonight)
-![](https://github-readme-activity-graph.cyclic.app/graph?username=dhodgson615&theme=tokyo-night)
-![](https://raw.githubusercontent.com/dhodgson615/dhodgson615/main/github-metrics.svg)
-[![Rank](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhodgson615&theme=tokyonight)](https://github.com/dhodgson615)
-![](https://raw.githubusercontent.com/dhodgson615/dhodgson615/output/github-contribution-grid-snake.svg)
-[![Commits Card](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhodgson615&theme=tokyonight)](https://github.com/dhodgson615)
+<div align="center">
+  <a href="https://github.com/dhodgson615">
+    <img src="https://github-readme-stats.vercel.app/api?username=dhodgson615&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="dhodgson615's GitHub Stats" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dhodgson615&theme=tokyo-night" alt="dhodgson615's activity graph" />
+</div>
+
+---
+
+<div align="center">
+  <a href="https://github.com/dhodgson615">
+    <img src="https://github-profile-trophy.vercel.app/?username=dhodgson615&theme=tokyonight" alt="dhodgson615's Trophies" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://github.com/dhodgson615">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhodgson615&theme=tokyonight&layout=compact&hide=html,css" alt="Top Languages" />
+  </a>
+</div>
+
+---
