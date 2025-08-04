@@ -7,12 +7,6 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dhodgson615&theme=tokyo-night" alt="dhodgson615's activity graph" />
-</div>
-
----
-
-<div align="center">
   <a href="https://github.com/dhodgson615">
     <img src="https://github-profile-trophy.vercel.app/?username=dhodgson615&theme=tokyonight" alt="dhodgson615's Trophies" />
   </a>
