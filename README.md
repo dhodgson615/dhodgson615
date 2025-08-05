@@ -16,6 +16,6 @@
 
 <div align="center">
   <a href="https://github.com/dhodgson615">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhodgson615&theme=tokyonight&hide=html,css&langs_count=5" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhodgson615&theme=tokyonight&hide=html,css&layout=compact&langs_count=10" alt="Top Languages" />
   </a>
 </div>
