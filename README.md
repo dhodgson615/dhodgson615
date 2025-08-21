@@ -35,3 +35,26 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhodgson615&theme=tokyonight" alt="dhodgson615's Contribution Graph"/>
   </a>
 </div>
+
+---
+
+<div align="center">
+  <a href="https://github.com/dhodgson615">
+    <img src="https://metrics.lecoq.io/dhodgson615?template=classic&theme=tokyonight&plugins=habits&config_habits.from=200&config_habits.days=14&config_habits.charts=true" alt="dhodgson615's Coding Habits"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://github.com/dhodgson615">
+    <img src="https://github-contribution-snake.vercel.app/api?username=dhodgson615&color_snake=#73daca&color_dots=#414863,#89ddff,#7dcfff,#c0caf5" alt="dhodgson615's Snake Contribution Graph"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhodgson615&label=Profile%20Views&color=bb9af7&style=for-the-badge" alt="dhodgson615's Profile Views"/>
+</div>
+
