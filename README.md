@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/dhodgson615">
-    <img src="https://github-profile-trophy.vercel.app/?username=dhodgson615&theme=tokyonight&rank=SSS,SS,S,A,B&margin-w=20&margin-h=20" alt="dhodgson615's Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=dhodgson615&theme=tokyonight&margin-w=20&margin-h=20" alt="dhodgson615's Trophies" />
   </a>
 </div>
 
