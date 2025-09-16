@@ -30,6 +30,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=apple,bash,c,cpp,clion,cmake,debian,discord,docker,git,github,gmail,gradle,haskell,idea,java,latex,linkedin,linux,md,maven,pycharm,py,regex,replit,ubuntu,vim,vscode" />
+</p>
+
+---
+
 <div align="center">
   <a href="https://github.com/dhodgson615">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhodgson615&theme=tokyonight" alt="dhodgson615's Contribution Graph"/>
