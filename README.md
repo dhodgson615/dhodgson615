@@ -31,7 +31,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=apple,bash,c,cpp,clion,cmake,debian,discord,docker,git,github,gmail,gradle,haskell,idea,java,latex,linkedin,linux,md,maven,pycharm,py,regex,replit,ubuntu,vim,vscode" />
+  <img src="https://skillicons.dev/icons?i=apple,linux,debian,ubuntu,bash,vim,vscode,c,cpp,java,py,haskell,regex,latex,md,cmake,gradle,maven,docker,clion,idea,pycharm,replit,git,github,discord,gmail,linkedin" />
 </p>
 
 ---
