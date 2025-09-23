@@ -41,3 +41,9 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhodgson615&theme=gruvbox" alt="Dylan's Contribution Graph"/>
   </a>
 </div>
+
+---
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhodgson615&theme=gruvbox&utcOffset=8" alt="Commits by Time"/>
+</div>
