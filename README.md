@@ -47,3 +47,9 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhodgson615&theme=gruvbox&utcOffset=8" alt="Commits by Time"/>
 </div>
+
+---
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhodgson615&theme=gruvbox" alt="Contribution Details"/>
+</div>
