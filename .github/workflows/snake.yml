@@ -1,9 +1,13 @@
-name: Generate Snake Animation
+name: Generate Snake Animation (Gruvbox)
+
+# Need write permission to push generated files back to the repo
+permissions:
+  contents: write
 
 on:
-  schedule:               # Runs daily at midnight UTC
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:      # Lets you run it manually from the Actions tab
+  workflow_dispatch:
   push:
     branches:
       - master
@@ -12,22 +16,37 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo content
-        uses: actions/checkout@v3
-
-      - name: Generate snake.svg (Gruvbox theme)
-        uses: Platane/snk@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
-          github_user_name: dhodgson615
-          outputs: dist/snake.svg
-          color_snake: "#d79921"     # Gruvbox yellow/orange snake
-          color_dots: "#504945,#bdae93,#ebdbb2,#fbf1c7"
-          # dark gray → beige → light yellow → cream (low → high activity)
+          fetch-depth: 0
+          persist-credentials: true
 
-      - name: Push generated snake.svg to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Generate snake svg (Gruvbox)
+        uses: Platane/snk/svg-only@v3
         with:
-          target_branch: output
-          build_dir: dist
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#d79921&color_dots=#504945,#bdae93,#ebdbb2,#fbf1c7
+
+      - name: Show generated files (debug)
+        run: |
+          echo "=== dist contents ==="
+          ls -la dist || true
+          echo "=== file types ==="
+          file dist/* || true
+
+      - name: Commit & push 'dist' into 'output' branch
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Configure git user for the commit
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Create / switch to the output branch and commit changes
+          git checkout -B output
+          git add -A dist
+          git commit -m "chore: update snake animation" || echo "No changes to commit"
+          # Push (will fail and show the error in logs if permission / branch-protection blocks it)
+          git push -u origin output --force
