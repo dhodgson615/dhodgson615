@@ -63,5 +63,5 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/dhodgson615/dhodgson615/blob/output/snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/dhodgson615/dhodgson615/output/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
