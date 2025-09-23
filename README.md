@@ -30,12 +30,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=apple,linux,debian,ubuntu,bash,vim,vscode,c,cpp,java,py,haskell,regex,latex,md,cmake,gradle,maven,docker,clion,idea,pycharm,replit,git,github,discord,gmail,linkedin" />
-</p>
-
----
-
 <div align="center">
   <a href="https://github.com/dhodgson615">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhodgson615&theme=gruvbox" alt="Dylan's Contribution Graph"/>
@@ -62,6 +56,14 @@
 
 ---
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=apple,linux,debian,ubuntu,bash,vim,vscode,c,cpp,java,py,haskell,regex,latex,md,cmake,gradle,maven,docker,clion,idea,pycharm,replit,git,github,discord,gmail,linkedin" />
+</p>
+
+---
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/dhodgson615/dhodgson615/output/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
+---
