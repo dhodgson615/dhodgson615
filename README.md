@@ -97,10 +97,20 @@
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" 
-       alt="Random Dev Quote" 
-       style="max-width:100%; height:auto;" />
+<div align="center" style="
+    background-color:#282828; 
+    color:#b8bb26; 
+    border-left: 4px solid #fe8019; 
+    padding: 16px; 
+    margin: 16px 0; 
+    border-radius: 8px; 
+    font-family: monospace; 
+    max-width: 600px;
+    line-height:1.5;
+">
+  <span style="color:#fe8019;">❝</span>
+  <span>Code is like humor. When you have to explain it, it’s bad.</span>
+  <span style="color:#fe8019;">❞</span>
 </div>
 
 ---
