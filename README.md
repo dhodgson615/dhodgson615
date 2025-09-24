@@ -56,9 +56,50 @@
 
 ---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=apple,linux,debian,ubuntu,bash,vim,vscode,c,cpp,java,py,haskell,regex,latex,md,cmake,gradle,maven,docker,clion,idea,pycharm,replit,git,github,discord,gmail,linkedin" />
-</p>
+<table>
+  <tr width="100%">
+    <th><h3 align="center">Operating Systems</h3></th>
+    <th><h3 align="center">Shells & Editors</h3></th>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://skillicons.dev/icons?i=apple,linux,debian,ubuntu" alt="macOS, Linux, Debian, Ubuntu" />
+    </td>
+    <td width="50%">
+      <img src="https://skillicons.dev/icons?i=bash,vim,vscode" alt="Bash, Vim, VS Code" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr width="100%">
+    <th><h3 align="center">Languages</h3></th>
+    <th><h3 align="center">Build & Package Tools</h3></th>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,py,haskell,regex,latex,md" alt="C, C++, Java, Python, Haskell, Regex, LaTeX, Markdown" />
+    </td>
+    <td width="50%">
+      <img src="https://skillicons.dev/icons?i=cmake,gradle,maven,docker" alt="CMake, Gradle, Maven, Docker" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr width="100%">
+    <th><h3 align="center">IDEs & Development Environments</h3></th>
+    <th><h3 align="center">Collaboration & Communication</h3></th>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://skillicons.dev/icons?i=clion,idea,pycharm,replit" alt="CLion, IntelliJ IDEA, PyCharm, Replit" />
+    </td>
+    <td width="50%">
+      <img src="https://skillicons.dev/icons?i=git,github,discord,gmail,linkedin" alt="Git, GitHub, Discord, Gmail, LinkedIn" />
+    </td>
+  </tr>
+</table>
 
 ---
 
