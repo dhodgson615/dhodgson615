@@ -39,7 +39,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhodgson615&theme=gruvbox&utcOffset=8" alt="Commits by Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhodgson615&theme=gruvbox&utcOffset=-4" alt="Commits by Time"/>
 </div>
 
 ---
