@@ -98,7 +98,9 @@
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" 
+       alt="Random Dev Quote" 
+       style="max-width:100%; height:auto;" />
 </div>
 
 ---
