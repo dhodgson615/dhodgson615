@@ -50,12 +50,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote"/>
-</div>
-
----
-
 <table>
   <tr width="100%">
     <th><h3 align="center">Operating Systems</h3></th>
@@ -108,3 +102,7 @@
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote"/>
+</div>
