@@ -17,10 +17,10 @@
 
 <div align="center">
    <a href="https://github.com/dhodgson615">
-      <img 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhodgson615&theme=gruvbox&hide=html,css&layout=compact&langs_count=12" 
-         alt="Top Languages"
-         style="width:50%; max-width:750px;" />
+   <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhodgson615&theme=gruvbox&hide=html,css&layout=compact&langs_count=12" 
+      alt="Top Languages"
+      style="width:50%; max-width:750px;" />
    </a>
 </div>
 
@@ -74,7 +74,6 @@
       </tr>
    </table>
 </div>
-
 <div align="center">
    <table>
       <tr width="100%">
@@ -95,7 +94,6 @@
       </tr>
    </table>
 </div>
-
 <div align="center">
    <table>
       <tr width="100%">
@@ -122,3 +120,5 @@
 <div align="center">
    <img src="https://raw.githubusercontent.com/dhodgson615/dhodgson615/output/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
+---
