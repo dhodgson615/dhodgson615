@@ -97,24 +97,6 @@
 
 ---
 
-<div align="center" style="
-    background-color:#282828; 
-    color:#b8bb26; 
-    border-left: 4px solid #fe8019; 
-    padding: 16px; 
-    margin: 16px 0; 
-    border-radius: 8px; 
-    font-family: monospace; 
-    max-width: 600px;
-    line-height:1.5;
-">
-  <span style="color:#fe8019;">❝</span>
-  <span>Code is like humor. When you have to explain it, it’s bad.</span>
-  <span style="color:#fe8019;">❞</span>
-</div>
-
----
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/dhodgson615/dhodgson615/output/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
