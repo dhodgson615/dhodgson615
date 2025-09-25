@@ -15,9 +15,9 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/dhodgson615">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhodgson615&theme=gruvbox&hide=html,css&layout=pie&langs_count=20" alt="Top Languages by Percent (Pie, Max Languages)" style="max-width:500px;" />
-  </a>
+    <a href="https://github.com/dhodgson615">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhodgson615&theme=gruvbox&hide=html,css&layout=pie&langs_count=20" alt="Top Languages by Percent (Pie, Max Languages)" style="max-width:500px;" />
+    </a>
 </div>
 
 ---
