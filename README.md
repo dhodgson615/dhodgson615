@@ -16,7 +16,7 @@
 
 <div align="center">
     <a href="https://github.com/dhodgson615">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhodgson615&theme=gruvbox&hide=html,css&layout=compact&langs_count=13" alt="Top Languages" style="width:50%; max-width:750px;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhodgson615&theme=gruvbox&hide=html,css&layout=compact&langs_count=12" alt="Top Languages" style="width:50%; max-width:750px;" />
     </a>
 </div>
 
