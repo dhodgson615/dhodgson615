@@ -15,20 +15,9 @@
 ---
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/dhodgson615">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhodgson615&theme=gruvbox&hide=html,css&layout=pie&langs_count=20" alt="Top Languages by Percent (Pie, Max Languages)" style="max-width:400px;" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/dhodgson615">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhodgson615&theme=gruvbox" alt="Languages by Repo (All)" style="max-width:400px;" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/dhodgson615">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhodgson615&theme=gruvbox&hide=html,css&layout=pie&langs_count=20" alt="Top Languages by Percent (Pie, Max Languages)" style="max-width:500px;" />
+  </a>
 </div>
 
 ---
