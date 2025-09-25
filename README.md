@@ -1,6 +1,7 @@
 <div align="center">
    <a href="https://github.com/dhodgson615">
-   <img src="https://github-readme-stats.vercel.app/api?username=dhodgson615&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true" alt="Dylan's GitHub Stats" />
+   <img src="https://github-readme-stats.vercel.app/api?username=dhodgson615&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true" alt="Dylan's GitHub Stats"
+      />
    </a>
 </div>
 
@@ -16,7 +17,10 @@
 
 <div align="center">
    <a href="https://github.com/dhodgson615">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhodgson615&theme=gruvbox&hide=html,css&layout=compact&langs_count=12" alt="Top Languages" />
+      <img 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhodgson615&theme=gruvbox&hide=html,css&layout=compact&langs_count=12" 
+         alt="Top Languages"
+         style="width:50%; max-width:750px;" />
    </a>
 </div>
 
