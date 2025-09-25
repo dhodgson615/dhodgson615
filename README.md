@@ -82,7 +82,7 @@
         </tr>
         <tr>
             <td width="50%" align="center">
-                <img src="https://skillicons.dev/icons?i=c,cpp,java,py,haskell,regex,latex,md" alt="C, C++, Java, Python, Haskell, Regex, LaTeX, Markdown" />
+                <img src="https://skillicons.dev/icons?i=c,cpp,java,py,haskell,latex" alt="C, C++, Java, Python, Haskell, Regex, LaTeX, Markdown" />
             </td>
             <td width="50%" align="center">
                 <img src="https://skillicons.dev/icons?i=cmake,gradle,maven,docker" alt="CMake, Gradle, Maven, Docker" />
