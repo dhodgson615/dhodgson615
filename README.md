@@ -5,7 +5,7 @@
     </a>
 </div>
 
----
+<hr>
 
 <div align="center">
         <a href="https://github.com/dhodgson615">
@@ -14,7 +14,7 @@
     </a>
 </div>
 
----
+<hr>
 
 <div align="center">
     <a href="https://github.com/dhodgson615">
@@ -24,7 +24,7 @@
     </a>
 </div>
 
----
+<hr>
 
 <div align="center">
         <a href="https://github.com/dhodgson615">
@@ -33,7 +33,7 @@
     </a>
 </div>
 
----
+<hr>
 
 <div align="center">
     <a href="https://github.com/dhodgson615">
@@ -42,21 +42,21 @@
     </a>
 </div>
 
----
+<hr>
 
 <div align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhodgson615&theme=gruvbox&utcOffset=-4"
              alt="Commits by Time" />
 </div>
 
----
+<hr>
 
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhodgson615&theme=gruvbox"
          alt="Contribution Details" />
 </div>
 
----
+<hr>
 
 <div align="center">
         <table>
@@ -125,11 +125,9 @@
     </table>
 </div>
 
----
+<hr>
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/dhodgson615/dhodgson615/output/dist/github-contribution-grid-snake.svg"
          alt="Snake animation" />
 </div>
-
----
