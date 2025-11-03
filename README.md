@@ -111,8 +111,8 @@
     <tr>
       <td width="50%" align="center">
         <img
-          src="https://skillicons.dev/icons?i=c,cpp,java,py,haskell,latex"
-          alt="C, C++, Java, Python, Haskell, Regex, LaTeX, Markdown"
+          src="https://skillicons.dev/icons?i=py,c,cpp,rust,java,haskell,latex"
+          alt="Python, C, C++, Rust, Java, Haskell, LaTeX"
         />
       </td>
       <td width="50%" align="center">
