@@ -137,7 +137,7 @@
     <tr>
       <td width="50%" align="center">
         <img
-          src="https://skillicons.dev/icons?i=clion,idea,pycharm,replit"
+          src="https://skillicons.dev/icons?i=clion,idea,pycharm,rustrover,replit"
           alt="CLion, IntelliJ IDEA, PyCharm, Replit"
         />
       </td>
@@ -159,3 +159,5 @@
     alt="Snake animation"
   />
 </div>
+
+<!-- TODO: add pytorch, cmake, git, github, githubactions, gmail, linkedin, regex, swift to some section. Probably make a "redundant software" container for obvious stuff like Git/Github because this is literally hosted on GitHub. -->
