@@ -137,7 +137,7 @@
     <tr>
       <td width="50%" align="center">
         <img
-          src="https://skillicons.dev/icons?i=clion,idea,pycharm,rustrover,replit"
+          src="https://skillicons.dev/icons?i=clion,idea,pycharm,replit"
           alt="CLion, IntelliJ IDEA, PyCharm, Replit"
         />
       </td>
