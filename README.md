@@ -12,7 +12,7 @@
 <div align="center">
   <a href="https://github.com/dhodgson615">
     <img
-      src="https://github-profile-trophy.vercel.app/?username=dhodgson615&theme=gruvbox&margin-w=20&margin-h=20&column=4"
+      src="https://github-profile-trophy.vercel.app/?username=dhodgson615&theme=gruvbox&margin-w=20&margin-h=20&column=3"
       alt="Dylan's Trophies"
     />
   </a>
