@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/dhodgson615">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=dhodgson615&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true"
+      src="https://github-readme-stats.vercel.app/api?username=dhodgson615&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"
       alt="Dylan's GitHub Stats"
     />
   </a>
@@ -12,7 +12,7 @@
 <div align="center">
   <a href="https://github.com/dhodgson615">
     <img
-      src="https://github-profile-trophy.vercel.app/?username=dhodgson615&theme=gruvbox&margin-w=20&margin-h=20&column=3"
+      src="https://github-profile-trophy.vercel.app/?username=dhodgson615&theme=tokyonight&margin-w=20&margin-h=20&column=3"
       alt="Dylan's Trophies"
     />
   </a>
@@ -23,7 +23,7 @@
 <div align="center">
   <a href="https://github.com/dhodgson615">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhodgson615&theme=gruvbox&hide=html,css&layout=pie&langs_count=17"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhodgson615&theme=tokyonight&hide=html,css&layout=pie&langs_count=17"
       alt="Top Languages by Percent (Pie, Max Languages)"
       style="max-width: 500px"
     />
@@ -35,7 +35,7 @@
 <div align="center">
   <a href="https://github.com/dhodgson615">
     <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=dhodgson615&theme=gruvbox"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=dhodgson615&theme=tokyonight"
       alt="Dylan's GitHub Streak"
     />
   </a>
@@ -46,7 +46,7 @@
 <div align="center">
   <a href="https://github.com/dhodgson615">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=dhodgson615&theme=gruvbox"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=dhodgson615&theme=tokyonight"
       alt="Dylan's Contribution Graph"
     />
   </a>
@@ -56,7 +56,7 @@
 
 <div align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhodgson615&theme=gruvbox&utcOffset=-4"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhodgson615&theme=tokyonight&utcOffset=-4"
     alt="Commits by Time"
   />
 </div>
@@ -65,7 +65,7 @@
 
 <div align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhodgson615&theme=gruvbox"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhodgson615&theme=tokyonight"
     alt="Contribution Details"
   />
 </div>
