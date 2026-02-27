@@ -1,4 +1,5 @@
 [![Metrics](https://github.com/dhodgson615/dhodgson615/actions/workflows/metrics.yml/badge.svg)](https://github.com/dhodgson615/dhodgson615/actions/workflows/metrics.yml)
+[![Generate Snake Animation (Tokyo Night)](https://github.com/dhodgson615/dhodgson615/actions/workflows/snake.yml/badge.svg)](https://github.com/dhodgson615/dhodgson615/actions/workflows/snake.yml)
 
 <div align="center">
   <a href="https://github.com/dhodgson615">
