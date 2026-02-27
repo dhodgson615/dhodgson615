@@ -1,0 +1,32 @@
+name: Generate Stats
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate cards
+        uses: soulteary/github-readme-stats-action@v1.1.0
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          card: stats
+          options: 'username=dhodgson615&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true'
+          path: stats.svg
+      - name: Generate top-langs
+        uses: soulteary/github-readme-stats-action@v1.1.0
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          card: top-langs
+          options: 'username=dhodgson615&theme=tokyonight&layout=pie&langs_count=15'
+          path: top-langs.svg
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats.svg top-langs.svg
+          git commit -m "Update stats" || exit 0
+          git push
