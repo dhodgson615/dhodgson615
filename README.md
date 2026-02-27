@@ -1,3 +1,5 @@
+[![Metrics](https://github.com/dhodgson615/dhodgson615/actions/workflows/metrics.yml/badge.svg)](https://github.com/dhodgson615/dhodgson615/actions/workflows/metrics.yml)
+
 <div align="center">
   <a href="https://github.com/dhodgson615">
     <img
