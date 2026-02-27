@@ -7,6 +7,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://github.com/dhodgson615/dhodgson615/blob/master/github-metrics.svg" alt="Detailed Metrics" />
+</div>
+
 <hr />
 
 <div align="center">
