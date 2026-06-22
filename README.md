@@ -94,8 +94,8 @@
     <tr>
       <td width="50%" align="center">
         <img
-          src="https://skillicons.dev/icons?i=apple,linux,debian,ubuntu"
-          alt="macOS, Linux, Debian, Ubuntu"
+          src="https://skillicons.dev/icons?i=apple,linux,gentoo,debian,ubuntu"
+          alt="macOS, Linux, Gentoo, Debian, Ubuntu"
         />
       </td>
       <td width="50%" align="center">
