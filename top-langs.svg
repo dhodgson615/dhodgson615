@@ -152,7 +152,7 @@
       <g transform="translate(0, 0)">
       <g class="stagger" style="animation-delay: 450ms">
         <text data-testid="lang-name" x="2" y="15" class="lang-name">Python</text>
-        <text x="215" y="34" class="lang-name" data-testid="lang-name">94.6%</text>
+        <text x="215" y="34" class="lang-name" data-testid="lang-name">94.5%</text>
         
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
