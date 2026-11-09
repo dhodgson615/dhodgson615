@@ -1,4 +1,4 @@
-name: Generate Snake Animation (Tokyo Night)
+name: Generate Snake Animation
 
 # Need write permission to push generated files back to the repo
 permissions:
@@ -22,12 +22,12 @@ jobs:
           fetch-depth: 0
           persist-credentials: true
 
-      - name: Generate snake svg (Tokyo Night)
+      - name: Generate snake svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#7aa2f7&color_dots=#414868,#565f89,#7dcfff,#bb9af7
+            dist/github-contribution-grid-snake.svg
 
       - name: Show generated files (debug)
         run: |
