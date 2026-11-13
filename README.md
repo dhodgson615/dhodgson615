@@ -146,8 +146,8 @@
     <tr>
       <td width="50%" align="center">
         <img
-          src="https://skillicons.dev/icons?i=clion,idea,pycharm,replit"
-          alt="CLion, IntelliJ IDEA, PyCharm, Replit"
+          src="https://skillicons.dev/icons?i=clion,idea,pycharm"
+          alt="CLion, IntelliJ IDEA, PyCharm"
         />
       </td>
       <td width="50%" align="center">
