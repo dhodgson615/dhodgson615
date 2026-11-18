@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/dhodgson615/dhodgson615/master/profile-summary-card-output/omni/4-productive-time.svg)
-```
-
-    
